@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.13.1",
+  "appInfo": {
+    "name": "Sample app-3",
+    "description": "Sample application for e-commerce",
+    "version": "hju7vpr5",
+    "id": "cl4wna0b9466801gae6g5cgn9",
+    "url": "https://server.staging-os.amplication-dev.com/cl4wna0b9466801gae6g5cgn9",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl4wna0b9466801gae6g5cgn9",
+      "authProvider": "Jwt"
+    }
+  }
+}
